@@ -330,5 +330,5 @@ ASALocalRun/
 .mfractor/
 
 # JavaScript Novice to Ninja Files
-quiz/
-rainbow/
+!quiz/
+!rainbow/
